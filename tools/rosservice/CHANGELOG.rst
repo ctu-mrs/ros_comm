@@ -2,6 +2,9 @@
 Changelog for package rosservice
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 1.16.0 (2023-02-15)
 -------------------
 * --noarr and --nostr option in rosservice call (`#2307 <https://github.com/ros/ros_comm/issues/2307>`_)

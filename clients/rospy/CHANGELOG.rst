@@ -2,6 +2,16 @@
 Changelog for package rospy
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* Fix error "s is not defined" (reopening `#2320 <https://github.com/ctu-mrs/ros_comm/issues/2320>`_ again) (`#2328 <https://github.com/ctu-mrs/ros_comm/issues/2328>`_)
+  * Fix error "s is not defined" (reopening  Refs `#2320 <https://github.com/ctu-mrs/ros_comm/issues/2320>`_ again)
+  * Update clients/rospy/src/rospy/topics.py with suggestion
+  Co-authored-by: Martin Pecka <peci1@seznam.cz>
+  ---------
+  Co-authored-by: Martin Pecka <peci1@seznam.cz>
+* Contributors: vineet131
+
 1.16.0 (2023-02-15)
 -------------------
 

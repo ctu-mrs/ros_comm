@@ -2,6 +2,13 @@
 Changelog for package topic_tools
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* [topic_tools/mux] add wait_publisher_initialization option in mux (`#2305 <https://github.com/ctu-mrs/ros_comm/issues/2305>`_)
+  * [topic_tools] add wait_publisher_initialization option in mux
+  * add wait_publisher_second param
+* Contributors: Shingo Kitagawa
+
 1.16.0 (2023-02-15)
 -------------------
 

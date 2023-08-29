@@ -2,6 +2,9 @@
 Changelog for package rosgraph
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+
 1.16.0 (2023-02-15)
 -------------------
 * Fix determining supported kernel version for HTTP 1.1 (`#2202 <https://github.com/ros/ros_comm/issues/2202>`_)

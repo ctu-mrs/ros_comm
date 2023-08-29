@@ -2,6 +2,11 @@
 Changelog for package rosbag
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+Forthcoming
+-----------
+* rosbag checks for disk write rate
+* Contributors: Tomas Baca
+
 1.16.0 (2023-02-15)
 -------------------
 * add missing repeat_latched initialization (`#2314 <https://github.com/ros/ros_comm/issues/2314>`_)
