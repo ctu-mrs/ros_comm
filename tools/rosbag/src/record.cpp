@@ -293,6 +293,8 @@ void signal_handler(int signal)
 int main(int argc, char** argv) {
     ros::init(argc, argv, "record", ros::init_options::AnonymousName);
 
+    ROS_INFO("[MrsRosbag] Starting mrs_rosbag");
+
     // handle SIGTERM signals
     signal(SIGTERM, signal_handler);
 
